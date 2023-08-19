@@ -14,27 +14,16 @@ I've worked at Apple, ao.com and Aesop. After a successful career in internal co
 ## :writing_hand: Writing
 
 - I kept a [weekly blog](https://snptrs.dev/tag/bootcamp/) during my coding bootcamp.
-- I record useful code examples and things I've learnt in my [TIL](https://github.com/snptrs/til).
+- I keep track of useful code examples and things I've learnt in my [TIL](https://github.com/snptrs/til).
 
 ## :man_technologist: Elsewhere
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/snptrs/).
-
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+- Email me at: sean at snptrs dot dev
 
 <!--
-**snptrs/snptrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 -->
