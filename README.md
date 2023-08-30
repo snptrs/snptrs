@@ -1,6 +1,6 @@
 ## :wave: Hey
 
-I’m Sean, a fullstack developer from Brighton, UK.
+I’m Sean, a software developer from Brighton, UK.
 
 At the moment, I'm mostly working with JavaScript, Node.js, React, Next.js, and testing with Jest and Cypress. I'm also working on a couple of projects in Ruby and Python.
 
