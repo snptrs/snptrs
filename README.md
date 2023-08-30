@@ -2,12 +2,12 @@
 
 I’m Sean, a software developer from Brighton, UK.
 
-At the moment, I'm mostly working with JavaScript, Node.js, React, Next.js, and testing with Jest and Cypress. I'm also working on a couple of projects in Ruby and Python.
+At the moment, I'm mostly working with JavaScript, Node.js, React, Next.js, and testing with Jest and Cypress. I'm also working on a couple of projects in Java and Python.
 
 ## :card_index_dividers: Recent projects
 
 - [Trail](https://trailapp.net) is an app that helps you discover the world around you. It uses Google Places to find your five nearest tourist attractions, then uses ChatGPT and Google's TTS engine to generate guides for you.
-- [Acebook](https://github.com/snptrs/bootcamp-acebook) is a simple social network, allowing users to register, post text and images, and browser a feed. It's an evolution of my [chitter project](https://github.com/snptrs/bootcamp-chitter-project).
+- [Acebook](https://github.com/snptrs/bootcamp-acebook) is a simple social network, allowing users to register, post text and images, and browse a feed. It's an evolution of my [chitter project](https://github.com/snptrs/bootcamp-chitter-project).
 
 ## :bowtie: Work
 
