@@ -2,8 +2,6 @@
 
 I’m Sean, a software developer from Brighton, UK.
 
-At the moment, I'm mostly working with JavaScript, Node.js, React, Next.js, and testing with Jest and Cypress. I'm also working on a couple of projects in Java and Python.
-
 ## :card_index_dividers: Recent projects
 
 - [Trail](https://trailapp.net) is an app that helps you discover the world around you. It uses Google Places to find your five nearest tourist attractions, then uses ChatGPT and Google's TTS engine to generate guides for you.
