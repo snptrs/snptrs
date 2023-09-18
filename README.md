@@ -1,6 +1,6 @@
 ## :wave: Hey
 
-I’m Sean, a software developer from Brighton, UK.
+I’m Sean, a software developer from Brighton.
 
 ## :card_index_dividers: Recent projects
 
