@@ -21,9 +21,9 @@ I've worked at Apple, ao.com and Aesop. After a successful career in internal co
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/snptrs/).
 - Email me at: sean at snptrs dot dev
 
-
+<!--
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-
+-->
