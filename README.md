@@ -2,18 +2,13 @@
 
 I’m Sean, a software developer from Brighton, UK.
 
-## :card_index_dividers: Recent projects
-
-- [Trail](https://trailapp.net) is an app that helps you discover the world around you. It uses Google Places to find your five nearest tourist attractions, then uses ChatGPT and Google's TTS engine to generate guides for you.
-- [Acebook](https://github.com/snptrs/bootcamp-acebook) is a simple social network, allowing users to register, post text and images, and browse a feed. It's an evolution of my [chitter project](https://github.com/snptrs/bootcamp-chitter-project).
-
 ## :bowtie: Work
 
-I've worked at Apple, ao.com and Aesop. After a successful career in internal communications, I've retrained as a software engineer.
+I've worked at Apple, ao.com and Aesop. After a successful career in internal communications, I retrained as a software engineer and have been working at Cosoft since 2023.
 
 ## :writing_hand: Writing
 
-- I kept a [weekly blog](https://snptrs.dev/tag/bootcamp/) during my coding bootcamp.
+- I occasionally [write about](https://snptrs.dev/writing) things I'm working on.
 - I keep track of useful code examples and things I've learnt in my [TIL](https://github.com/snptrs/til).
 
 ## :man_technologist: Elsewhere
